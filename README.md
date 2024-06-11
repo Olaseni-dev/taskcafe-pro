@@ -17,12 +17,12 @@ Here’s how to set up and run Taskcafe:
 **3. Start the application:**
       npm start
 
-**Usage**
+##Usage
 To start using Taskcafe:
 
 Navigate to http://localhost:3333 in your web browser.
 Create a new project and start adding tasks.
 Use the Kanban board to move tasks through different stages of completion.
 
-**Personal Insights**
+##Personal Insights
 Developing Taskcafe has been a rewarding experience. It has taught me a lot about full-stack development and the importance of good project management practices.
